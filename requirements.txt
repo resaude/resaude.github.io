@@ -1,7 +1,0 @@
-furo
-myst-parser
-sphinx
-sphinx-copybutton
-sphinx-design
-sphinx-favicon
-sphinx-inline-tabs
