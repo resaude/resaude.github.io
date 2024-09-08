@@ -22,7 +22,7 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
       - name: build pages
-        run: nix develop --command just build
+        run: nix develop --command just --shell bash build
       - name: Archive artifact
         uses: actions/upload-pages-artifact@v3
         with:
