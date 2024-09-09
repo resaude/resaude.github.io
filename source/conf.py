@@ -1,4 +1,8 @@
 import os
+import time
+
+# Fix for incorrectg SOURCE_DATE_EPOCH Nix env
+os.environ["SOURCE_DATE_EPOCH"] = str(int(time.time()))
 
 # -- Project information -----------------------------------------------------
 project = "audoctect-vitrine"
