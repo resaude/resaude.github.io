@@ -9,19 +9,19 @@
 
 - 👑: Fondateur
 - 💻: Développeur Backend / Fullstack
-- ❇️: Création d'application web, realisation d'infrastructure, développement de logiciel, data engineer
-- ☘️: Sa devise est `la qualité en premier`.
+- ❇️: Création d'application web, réalisation d'infrastructure, développement de logiciel, data engineer
+- ☘️: `la qualité en premier`.
 - 🛠️: {bdg-primary}`Python`{bdg-info}`Docker`{bdg-success}`Cloud`{bdg-success}`Nix`
 
 :::{dropdown} Qui est-ce ?
 
-Développeur spécialisé en python et en développement backend, Clément a travaillé dans différent domaine et sur diverse application, ce qui lui
+Développeur spécialisé en Python et en développement backend, Clément a travaillé dans différents domaines et sur diverse applications, ce qui lui
 a permis d'acquérir de nombreuse compétense technique.
 
-Après 10 ans a travaillé dans des grandes villes tels que Rouen, Rennes ou Toulouse, il décide de se poser dans la région de Carcassone afin de créer le
+Après 10 ans a travailler dans des grandes villes telles que Rouen, Rennes ou Toulouse, il décide de se poser dans la région de Carcassone afin de créer le
 collectif de développeur Aud'Octet.
 
-Dernière ce projet se cache l'idée de décentralisé et délocaliser le secteur informatiaque des grandes aires d'attraction de Toulouse et Montpellier pour
+Dernière ce projet se cache l'idée de décentraliser et délocaliser le secteur informatiaque des grandes aires d'attraction de Toulouse et Montpellier pour
 dynamiser économiquement l'Aude.
 :::
 
