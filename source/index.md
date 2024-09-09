@@ -8,13 +8,13 @@ projets
 contact
 ```
 
-# Bonjour et bienvenue !
+# Accueil
 
-# 🥇 Qu'est-ce que Aud'Octet
+## 🥇 Qu'est-ce que Aud'Octet
 
 Aud'Octet est un collectif réunissant différents profils de développeurs informatique dans le département de l'Aude.
 
-# 🚀 Objectif de Aud'Octet
+## 🚀 Objectif de Aud'Octet
 
 Aud'Octet a été créé afin de mettre en visibilité des développeurs informatique dans l'Aude, cela pour différentes raisons:
 - Favoriser le développement d'entreprise local, habituellement le secteur de l'informatique étant centralisé dans les grandes villes;

@@ -10,7 +10,7 @@
 - 👑: Fondateur
 - 💻: Développeur Backend / Fullstack
 - ❇️: Création d'application web, réalisation d'infrastructure, développement de logiciel, data engineer
-- ☘️: `la qualité en premier`.
+- ☘️: `la qualité en premier`
 - 🛠️: {bdg-primary}`Python`{bdg-info}`Docker`{bdg-success}`Cloud`{bdg-success}`Nix`
 
 :::{dropdown} Qui est-ce ?
@@ -30,6 +30,7 @@ dynamiser économiquement l'Aude.
 - Dévelopement web dans différent domaine (société de sondage, aérospatial, ticket restaurant);
 - Dévelopement de Logiciel (aérospatial, ticket restaurant, défense);
 - Infrastructure dans le cloud (aérospatial, ticket restaurant);
+- DevOps (société de sondage, aérospatial, ticket restaurant, défense);
 :::
 
 :::{dropdown} Contact

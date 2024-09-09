@@ -38,8 +38,8 @@ source_suffix = {
 }
 
 # -- Theme -------------------------------------------------------------------
-DARK_COLOR = "#3BD16F"
-LIGHT_COLOR = "#0E7322"
+DARK_COLOR = "#fc9700"
+LIGHT_COLOR = "#ff6600"
 
 html_theme = "furo"
 html_static_path = ["_static"]
