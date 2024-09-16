@@ -1,0 +1,4 @@
+# Collaborateurs
+
+```{include} ./cdubos.md
+```

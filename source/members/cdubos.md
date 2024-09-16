@@ -1,5 +1,3 @@
-# Collaborateurs
-
 ```{dropdown} Clément Dubos - 👑 Fondateur
 
 :::{image} https://avatars.githubusercontent.com/u/52322202
@@ -8,20 +6,20 @@
 :::
 
 - 👑: Fondateur
-- 💻: Développeur Backend / Fullstack
+- 💻: Développeur Backend / DevOps
 - ❇️: Création d'application web, réalisation d'infrastructure, développement de logiciel, data engineer
 - ☘️: `la qualité en premier`
 - 🛠️: {bdg-primary}`Python`{bdg-info}`Docker`{bdg-success}`Cloud`{bdg-success}`Nix`
 
 :::{dropdown} Qui est-ce ?
 
-Développeur spécialisé en Python et en développement backend, Clément a travaillé dans différents domaines et sur diverse applications, ce qui lui
+Développeur spécialisé en Python et en développement backend, Clément a travaillé dans différents domaines et sur diverses applications, ce qui lui
 a permis d'acquérir de nombreuse compétense technique.
 
 Après 10 ans a travailler dans des grandes villes telles que Rouen, Rennes ou Toulouse, il décide de se poser dans la région de Carcassone afin de créer le
-collectif de développeur Aud'Octet.
+collectif de développeur *Aud'Octet*.
 
-Dernière ce projet se cache l'idée de décentraliser et délocaliser le secteur informatiaque des grandes aires d'attraction de Toulouse et Montpellier pour
+Dernière ce projet se cache l'idée de décentraliser et délocaliser le secteur informatique des grandes aires d'attraction de Toulouse et Montpellier pour
 dynamiser économiquement l'Aude.
 :::
 
