@@ -6,3 +6,6 @@ devenv:
 build:
     rm -rf build
     sphinx-build source build -b html
+
+run-server:
+    python -m http.server -d build

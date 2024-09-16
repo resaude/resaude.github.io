@@ -4,19 +4,25 @@
 
 self
 collaborateurs
-projets
 contact
 ```
 
 # Accueil
 
-## 🥇 Qu'est-ce que Aud'Octet
+## 🥇 Qu'est-ce que *Aud'Octet*
 
-Aud'Octet est un collectif réunissant différents profils de développeurs informatique dans le département de l'Aude.
+Aud'Octect est un collectif d'acteur du secteur du numérique (développeur, devops, ux, ui, product designer, ...), ayant a coeur de booster l'attractivité
+de leur région dans ce secteur.
 
-## 🚀 Objectif de Aud'Octet
+Si vous êtes a la recherche de personne pour vous aider dans vos défi actuel, vous pourrez retrouver [l'ensemble des membres du collectif ici](./collaborateurs.md#collaborateurs).
 
-Aud'Octet a été créé afin de mettre en visibilité des développeurs informatique dans l'Aude, cela pour différentes raisons:
-- Favoriser le développement d'entreprise local, habituellement le secteur de l'informatique étant centralisé dans les grandes villes;
-- Renforcer l'impact de la région, en permettant à des entreprise de venir s'intégrer dans le secteur de Carcassonne;
-- Oeuvrer pour un changement de dynamique plus écologique, en désengorgeant les villes d'attractions (Toulouse et Montpellier);
+## 🚀 Objectif de *Aud'Octet*
+
+Aud'Octet a été créé afin de mettre en visibilité des talents du numériques présent dans l'Aude afin de permettre:
+- Aux entreprises local de bénéficier d'un accompagnement;
+- A des entreprises de venir s'installé dans l'Aude en ayant identifié les acteurs présents dans la région.
+
+## 📬 Nous contacter
+
+Pour toute demande de contact, pour un accompagnement d'entreprise ou afin de rejoindre le collectif en tant qu'acteur,
+merci de passé par [l'adresse de contact disponible ici](./contact.md#nous-contacter).
