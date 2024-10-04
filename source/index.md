@@ -9,16 +9,16 @@ contact
 
 # Accueil
 
-## 🥇 Qu'est-ce que *Aud'Octet*
+## 🥇 Qu'est-ce que *Res'Aude*
 
-Aud'Octect est un collectif d'acteur du secteur du numérique (développeur, devops, ux, ui, product designer, ...), ayant à coeur de booster l'attractivité
+*Res'Aude* est un collectif d'acteur du secteur du numérique (développeur, devops, ux, ui, product designer, ...), ayant à coeur de booster l'attractivité
 de leur région dans ce secteur.
 
 Si vous êtes à la recherche de personne pour vous aider dans vos défi actuel, vous pourrez retrouver [l'ensemble des membres du collectif ici](./members/index.md#collaborateurs).
 
-## 🚀 Objectif de *Aud'Octet*
+## 🚀 Objectif de *Res'Aude*
 
-*Aud'Octet* a été créé afin de mettre en visibilité des talents du numériques présent dans l'Aude afin de permettre:
+*Res'Aude* a été créé afin de mettre en visibilité des talents du numériques présent dans l'Aude afin de permettre:
 - Aux entreprises local de bénéficier d'un accompagnement;
 - A des entreprises de venir s'installer dans l'Aude en ayant identifiés les acteurs présents dans la région.
 

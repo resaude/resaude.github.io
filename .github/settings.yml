@@ -1,7 +1,7 @@
 repository:
-  name: audoctet
-  description: Aud'Octet Web Site
-  homepage: https://github.com/cdubos-fr/audoctet
+  name: resaude
+  description: Res'Aude Web Site
+  homepage: https://github.com/cdubos-fr/resaude
   topics: github, probot
   private: false
   has_issues: true
