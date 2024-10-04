@@ -6,7 +6,7 @@ os.environ["SOURCE_DATE_EPOCH"] = str(int(time.time()))
 
 # -- Project information -----------------------------------------------------
 project = "audoctect-vitrine"
-copyright = "2024, Aud'Octet"
+copyright = "2024, Res'Aude"
 author = "Clément Dubos"
 
 # -- Configuration -----------------------------------------------------------
@@ -46,7 +46,7 @@ html_static_path = ["_static"]
 html_show_sphinx = True
 
 html_logo = "_static/icon.svg"
-html_title = "Aud'Octet"
+html_title = "Res'Aude"
 
 html_theme_options = {
     "dark_css_variables": {
@@ -63,7 +63,9 @@ html_theme_options = {
 
 html_css_files = [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css",
+    "css/custom.css",
 ]
+html_show_sourcelink = False
 
 FAVICON_DIR = "favicon"
 

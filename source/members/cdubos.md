@@ -17,7 +17,7 @@ Développeur spécialisé en Python et en développement backend, Clément a tra
 a permis d'acquérir de nombreuse compétense technique.
 
 Après 10 ans a travailler dans des grandes villes telles que Rouen, Rennes ou Toulouse, il décide de se poser dans la région de Carcassone afin de créer le
-collectif de développeur *Aud'Octet*.
+collectif de développeur *Res'Aude*.
 
 Dernière ce projet se cache l'idée de décentraliser et délocaliser le secteur informatique des grandes aires d'attraction de Toulouse et Montpellier pour
 dynamiser économiquement l'Aude.

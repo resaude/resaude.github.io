@@ -1,4 +1,4 @@
-Aud'Octet Web Site
+Res'Aude Web Site
 
 # Development
 
