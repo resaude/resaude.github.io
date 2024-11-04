@@ -1,7 +1,7 @@
 repository:
   name: resaude
   description: Res'Aude Web Site
-  homepage: https://github.com/cdubos-fr/resaude
+  homepage: https://github.com/resaude/resaude.github.io
   topics: github, probot
   private: false
   has_issues: true
