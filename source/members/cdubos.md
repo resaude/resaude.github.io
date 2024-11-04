@@ -7,33 +7,33 @@
 
 - 👑: Fondateur
 - 💻: Développeur Backend / DevOps
-- ❇️: Création d'application web, réalisation d'infrastructure, développement de logiciel, data engineer
+- ❇️: Création d'application web, mise en place d'infrastructure, développement de logiciel, data engineer
 - ☘️: `la qualité en premier`
 - 🛠️: {bdg-primary}`Python`{bdg-info}`Docker`{bdg-success}`Cloud`{bdg-success}`Nix`
 
 :::{dropdown} Qui est-ce ?
 
-Développeur spécialisé en Python et en développement backend, Clément a travaillé dans différents domaines et sur diverses applications, ce qui lui
-a permis d'acquérir de nombreuse compétense technique.
+Développeur spécialisé en Python et en développement backend, Clément a travaillé dans différents
+domaines et sur diverses applications, ce qui lui a permis d'acquérir de nombreuse compétense technique.
 
-Après 10 ans a travailler dans des grandes villes telles que Rouen, Rennes ou Toulouse, il décide de se poser dans la région de Carcassone afin de créer le
-collectif de développeur *Res'Aude*.
+Après 10 ans a travailler pour des clients dans des grandes villes telles que Rouen, Rennes ou Toulouse,
+ il décide de créer le collectif de développeur *Res'Aude*.
 
-Dernière ce projet se cache l'idée de décentraliser et délocaliser le secteur informatique des grandes aires d'attraction de Toulouse et Montpellier pour
-dynamiser économiquement l'Aude.
+Dernière ce projet se cache l'idée de décentraliser et délocaliser le secteur informatique des
+grandes aires d'attraction de Toulouse et Montpellier pour dynamiser économiquement l'Aude.
 :::
 
 :::{dropdown} Réalisation
+Ayant effectué de nombreux projets diverses (Web, logiciel, infrastructure) et dans différents domanaines (Défense, banquaire, société de sondage, aérospatial), Clément est capable de vous accompagner sur différents type de projet tel que:
 
-- Dévelopement web dans différent domaine (société de sondage, aérospatial, ticket restaurant);
-- Dévelopement de Logiciel (aérospatial, ticket restaurant, défense);
-- Infrastructure dans le cloud (aérospatial, ticket restaurant);
-- DevOps (société de sondage, aérospatial, ticket restaurant, défense);
+- La réalisation d'outil d'automatisation de flux de travail (génération de fichier PDF, extraction de donnée);
+- La mise en place d'infrastructure dans le Cloud;
+- La mise en place d'application web;
 :::
 
 :::{dropdown} Contact
 
-{far}`envelope` Adresse mail: `contact` `arobase` `cdubos` `point` `fr`
+{far}`envelope` Adresse mail: <a href="mailto:contact@cdubos.fr">`contact@cdubos.fr`</a>
 
 {fab}`github` Github: [cdubos-fr](https://github.com/cdubos-fr)
 
