@@ -11,17 +11,17 @@ contact
 
 ## 🥇 Qu'est-ce que *Res'Aude*
 
-*Res'Aude* est un collectif d'acteur du secteur du numérique (développeur, devops, ux, ui, product designer, ...),
+*Res'Aude* est un collectif d'acteurs du secteur du numérique (développeur, devops, UX/UI designer, product designer etc.)
 ayant à coeur de booster l'attractivité de leur région dans ce secteur.
 
-Si vous êtes à la recherche de personne pour vous aider dans vos défis actuels, vous pourrez retrouver [l'ensemble des membres du collectif ici](./members/index.md#collaborateurs).
+Si vous êtes à la recherche de personnes pour vous aider dans vos défis actuels, vous pourrez retrouver [l'ensemble des membres du collectif ici](./members/index.md#collaborateurs).
 
 ## 🚀 Objectif de *Res'Aude*
 
-*Res'Aude* a été créé afin de mettre en visibilité des talents du numériques présent dans l'Aude afin de permettre:
-- Aux entreprises local de bénéficier d'un accompagnement;
-- A des entreprises de venir s'installer dans l'Aude en ayant identifiés les acteurs présents dans la région;
-- Permettre a des talents d'être mis en avant sur leurs domaines d'expertises.
+*Res'Aude* a été créé afin de mettre en visibilité des talents du numérique présents dans l'Aude et de permettre:
+- Aux entreprises locales de bénéficier d'un accompagnement personnalisé;
+- À des entreprises de venir s'installer dans l'Aude en ayant identifié les acteurs présents dans la région;
+- Permettre à des talents d'être mis en avant sur leurs domaines d'expertise.
 
 ## 📬 Nous contacter
 
