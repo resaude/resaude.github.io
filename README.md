@@ -9,7 +9,7 @@ this will setup en entire development environment.
 
 > **__Note__**: to enable `direnv`, follow [the direnv setup page](https://direnv.net/docs/hook.html)
 
-> **__Warning__**: if you have an error about "experimental factures", you have to create the file `~/.config/nix/nix.conf` with the following content: `extra-experimental-features = nix-command flakes`.
+> **__Warning__**: if you have an error about "experimental Nix feature", you have to create the file `~/.config/nix/nix.conf` with the following content: `extra-experimental-features = nix-command flakes`.
 
 Then, you can modify `markdown` content in `source` and test the result with:
 - `just build`: that will build html content
