@@ -2,8 +2,12 @@ Res'Aude Web Site
 
 # Development
 
-To add changes, you have to use [Nix](https://nixos.org/) and [Direnv](https://github.com/nix-community/nix-direnv),
+## Setup
+
+You have to install [Nix](https://nixos.org/), and then installing  [Direnv](https://github.com/nix-community/nix-direnv): `nix profile install nixpkgs#direnv nixpkgs#nix-direnv`
 this will setup en entire development environment.
+
+> **__Warning__**: if you have an error about "experimental factures", you have to create the file `~/.config/nix/nix.conf` with the following content: `extra-experimental-features = nix-command flakes`.
 
 Then, you can modify `markdown` content in `source` and test the result with:
 - `just build`: that will build html content
