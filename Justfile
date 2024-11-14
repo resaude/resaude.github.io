@@ -2,6 +2,7 @@ set shell := ["zsh", "-uc"]
 
 devenv:
     pre-commit install
+    pre-commit install-hooks
 
 build:
     rm -rf build
