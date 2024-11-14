@@ -4,6 +4,8 @@ Res'Aude Web Site
 
 ## Setup
 
+### Nix install
+
 You have to install [Nix](https://nixos.org/), and then installing  [Direnv](https://github.com/nix-community/nix-direnv): `nix profile install nixpkgs#direnv nixpkgs#nix-direnv`
 this will setup en entire development environment.
 
@@ -11,9 +13,17 @@ this will setup en entire development environment.
 
 > **__Warning__**: if you have an error about "experimental Nix feature", you have to create the file `~/.config/nix/nix.conf` with the following content: `extra-experimental-features = nix-command flakes`.
 
+### Docker install
+
+A full docker container environment can be built and used with following script:
+`bash ./docker/docker-env.sh`
+
+## Usage
+
 Then, you can modify `markdown` content in `source` and test the result with:
 - `just build`: that will build html content
 - `just run-server`: that will expose a local http server to [`localhost:8000`](http://localhost:8000)
+- commands can be combine: `just build run-server`
 
 # To add a new member description
 

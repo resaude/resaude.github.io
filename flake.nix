@@ -67,7 +67,6 @@
               ];
               shellHook = ''
                 just devenv
-                source .venv/bin/activate
               '';
             };
           };
