@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/24.11";
     flake-parts.url = "github:hercules-ci/flake-parts";
     pyproject-nix.url = "github:nix-community/pyproject.nix";
     pyproject-nix.inputs.nixpkgs.follows = "nixpkgs";
@@ -53,6 +53,8 @@
                     sphinx-design
                     sphinx-favicon
                     sphinx-inline-tabs
+                    sphinx-sitemap
+                    sphinxext-opengraph
                   ]
                 ))
                 just

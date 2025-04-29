@@ -1,11 +1,11 @@
 import os
 import time
 
-# Fix for incorrectg SOURCE_DATE_EPOCH Nix env
+# Fix for incorrect SOURCE_DATE_EPOCH Nix env
 os.environ["SOURCE_DATE_EPOCH"] = str(int(time.time()))
 
 # -- Project information -----------------------------------------------------
-project = "audoctect-vitrine"
+project = "resaude-website"
 copyright = "2024, Res'Aude"
 author = "Clément Dubos"
 
@@ -23,6 +23,8 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_inline_tabs",
     "sphinx_favicon",
+    "sphinx_sitemap",
+    "sphinxext.opengraph",
 ]
 myst_enable_extensions = ["colon_fence", "deflist"]
 myst_heading_anchors = 3
@@ -44,9 +46,15 @@ LIGHT_COLOR = "#ff6600"
 html_theme = "furo"
 html_static_path = ["_static"]
 html_show_sphinx = True
+html_show_sourcelink = False
 
 html_logo = "_static/icon.svg"
-html_title = "Res'Aude"
+ogp_site_name = html_title = "Res'Aude"
+html_description = "Collectif d'acteurs du numérique"
+sitemap_url_scheme = "{link}"
+ogp_site_url = html_baseurl = "https://resaude.fr/"
+ogp_description_length = 300
+ogp_image = "_/static/icon.svg"
 
 html_theme_options = {
     "dark_css_variables": {
@@ -65,7 +73,6 @@ html_css_files = [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css",
     "css/custom.css",
 ]
-html_show_sourcelink = False
 
 FAVICON_DIR = "favicon"
 
