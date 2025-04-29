@@ -14,17 +14,17 @@
 :::{dropdown} Qui est-ce ?
 
 Développeur spécialisé en Python et en développement backend, Clément a travaillé dans différents
-domaines et sur diverses applications, ce qui lui a permis d'acquérir de nombreuse compétences techniques.
+domaines et sur diverses applications, ce qui lui a permis d'acquérir de nombreuses compétences techniques.
 
 Après 10 ans à travailler pour des clients dans des grandes villes telles que Rouen, Rennes ou Toulouse,
  il décide de créer le collectif de développeurs *Res'Aude*.
 
-Dernière ce projet se cache l'idée de décentraliser et délocaliser le secteur informatique des
+Derrière ce projet se cache l'idée de décentraliser et délocaliser le secteur informatique des
 grandes aires d'attraction de Toulouse et Montpellier pour dynamiser économiquement l'Aude.
 :::
 
 :::{dropdown} Réalisation
-Ayant effectué de nombreux projets (Web, logiciel, infrastructure) et dans différents domaines (Défense, bancaire, société de sondages, aérospatial), Clément est capable de vous accompagner sur différents type de projets tel que:
+Ayant effectué de nombreux projets (Web, logiciel, infrastructure) et dans différents domaines (Défense, bancaire, société de sondages, aérospatial), Clément est capable de vous accompagner sur différents types de projets tels que:
 
 - La réalisation d'outils d'automatisation de flux de travail (génération de fichier PDF, extraction de données);
 - La mise en place d'infrastructures dans le Cloud;

@@ -1,0 +1,8 @@
+{%- extends "!layout.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <meta name="description" content="{% if meta and meta.description %}{{ meta.description }}{% else %}{{ html_description }}{% endif %}">
+  <meta name="keywords" content="{% if meta and meta.keywords %}{{ meta.keywords }}{% else %}mots-clés-par-défaut{% endif %}">
+  <meta name="author" content="{{ author }}">
+{% endblock %}

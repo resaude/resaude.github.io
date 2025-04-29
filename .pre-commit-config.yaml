@@ -11,7 +11,7 @@ repos:
     - id: mixed-line-ending
     - id: requirements-txt-fixer
 - repo: https://github.com/NixOS/nixfmt
-  rev: master
+  rev: 2c611acc3a6ce6466fc6d13ea8b60e243686a526
   hooks:
     -   id: nixfmt
 -   repo: https://github.com/psf/black

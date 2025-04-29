@@ -17,7 +17,7 @@ Développeur frontend passionné, Thibaut a travaillé dans __de nombreux secteu
 
 Plus récemment, il a contribué à la refonte complète d'un média en ligne, la mise en place d'une newsletter et d'un système d'abonnements et de dons avec différents outils de suivi personnalisés lui permettant d'assurer sa pérennité financière et une meilleure compréhension de son audience pour mieux orienter ses choix éditoriaux.
 
-Thibaut est convaincu qu’un design moderne et soigné est essentiel pour valoriser l'image de mes clients. C'est pourquoi il s'efforce de créer des expériences utilisateur intuitives et engageantes, tout en respectant l'identité visuelle de chaque marque.
+Thibaut est convaincu qu’un design moderne et soigné est essentiel pour valoriser l'image de ses clients. C'est pourquoi il s'efforce de créer des expériences utilisateur intuitives et engageantes, tout en respectant l'identité visuelle de chaque marque.
 
 :::
 
